@@ -1,0 +1,16 @@
+{
+  "name": "node-red-contrib-mlx-sensor",
+  "version": "0.0.1",
+  "description": "MLX90614 Infrared Temperature Sensor",
+  "dependencies": { "i2c-bus":"*"},
+  "scripts": {
+    "test": "none"
+  },
+  "author": "Prosper Van",
+  "license": "MIT",
+  "node-red" : {
+    "nodes": {
+       "mlx-sensor": "mlx-sensor.js"
+    }
+  }
+}
