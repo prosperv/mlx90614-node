@@ -1,1 +1,2 @@
-# mlx90614-node
+# MLX90614 node for node-RED
+
